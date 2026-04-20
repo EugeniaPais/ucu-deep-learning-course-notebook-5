@@ -2,7 +2,8 @@
 
 | Notebook | Topic | Colab |
 |----------|-------|-------|
-| Notebook 1 | Linear Regression | [Open in Colab](https://colab.research.google.com/drive/1UK8rMGzpagspFNIVZ_zWJD1ScR7TrpOC?usp=sharing) |
+| Notebook 5 | Measuring Performance and
+Regularization | [Open in Colab]() |
 
 ---
 
