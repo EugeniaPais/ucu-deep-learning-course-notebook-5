@@ -3,7 +3,7 @@
 | Notebook | Topic | Colab |
 |----------|-------|-------|
 | Notebook 5 | Measuring Performance and
-Regularization | [Open in Colab]() |
+Regularization | [Open in Colab](https://colab.research.google.com/drive/1yBw41Rv1igaMQ1YxVLi9uhF0DvSsmUGj?usp=sharing) |
 
 ---
 
